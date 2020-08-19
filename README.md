@@ -3,9 +3,14 @@ A Flask app using Bulma starter with basic authentication
 
 # Development
 ```
-conda create -n kadisttv python=3.8
+conda create -n myproject python=3.8
+conda activate myproject
 pip install -r requirements.txt
 ```
 default account:
 
 `default`/`password`
+
+# Themes
+
+ [examples](https://jenil.github.io/bulmaswatch/)
